@@ -44,14 +44,13 @@
     }
   ],
   "buildpacks": [
-    {
-      "url": "https://github.com/stomita/heroku-buildpack-phantomjs"
-    }
+        { "url": "https://github.com/heroku/heroku-buildpack-google-chrome" },
+    {"url": "https://github.com/stomita/heroku-buildpack-phantomjs"}
   ],
   "environments": {
     "test": {
       "scripts": {
-        "test": "Script1530770823454.groovy"
+        "test": "bundle exec rspec"
       }
     }
   }
