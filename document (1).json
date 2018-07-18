@@ -51,7 +51,7 @@
   "environments": {
     "test": {
       "scripts": {
-        "test": "bundle exec rake test"
+        "test": "Script1530770823454.groovy"
       }
     }
   }
