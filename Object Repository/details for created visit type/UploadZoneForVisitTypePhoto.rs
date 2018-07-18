@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>UploadZoneForVisitTypePhoto</name>
+   <tag></tag>
+   <elementGuidId>f5151219-52e3-4a59-a5af-88dcbeef68c1</elementGuidId>
+   <imagePath>cute-cat-picture_1122-449.jpg</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id=&quot;browse-photo-file&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

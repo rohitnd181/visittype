@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To check Daily Visit-events-off campus buttons and windows</description>
+   <name>Daily Visit-events-off campus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eeb1934e-f9cd-49ea-a1bf-0e9ebbf1b497</testCaseGuid>
+</TestCaseEntity>

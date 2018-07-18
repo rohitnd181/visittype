@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>To verify the features present in Read Only  account</description>
+   <name>Testing Read Only Account</name>
+   <tag></tag>
+   <UUID>385d53d1-55db-4325-aec3-0109949acc51</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
